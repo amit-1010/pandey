@@ -32,7 +32,7 @@ async def is_admins(chat_id: int):
 
 @bot.on_message(filters.command("start"))
 async def start(client, message):
-        await message.reply_text("Hi! My name is Jessica. I'm an Artificial Intelligence\n /chatbot - [on|off]\n My Owner @JoinIndianNavy_007 ")
+        await message.reply_text("Hi! My name is pandey. I'm an Artificial Intelligence\n /chatbot - [on|off]\n My Owner @Offlinehu10 ")
 
 
 @bot.on_message(
